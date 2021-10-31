@@ -59,12 +59,18 @@ html{
     box-shadow: 3px 2px 20px 5px purple;
     padding: 25px;
 }
-.ytcompimg{
+.ytcomp img{
     border-radius: 40px;
     max-width: 600px;
     /* height: 100%; */
     width: 100%;
     margin: 10px 0px;
+}
+.ytcomp div{
+    /* padding: 0px; */
+    width: 100%;
+    max-width: 600px;
+    padding: 10px;
 }
 /* .ytcompimg:hover{
     margin: 5px;
