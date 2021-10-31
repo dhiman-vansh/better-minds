@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/better-minds/static/css/main.1594ca8a.chunk.css",
+    "main.js": "/better-minds/static/js/main.ec58881e.chunk.js",
+    "main.js.map": "/better-minds/static/js/main.ec58881e.chunk.js.map",
+    "runtime-main.js": "/better-minds/static/js/runtime-main.c9f04fc4.js",
+    "runtime-main.js.map": "/better-minds/static/js/runtime-main.c9f04fc4.js.map",
+    "static/css/2.804e59fb.chunk.css": "/better-minds/static/css/2.804e59fb.chunk.css",
+    "static/js/2.c5c1a484.chunk.js": "/better-minds/static/js/2.c5c1a484.chunk.js",
+    "static/js/2.c5c1a484.chunk.js.map": "/better-minds/static/js/2.c5c1a484.chunk.js.map",
+    "static/js/3.efff8b9a.chunk.js": "/better-minds/static/js/3.efff8b9a.chunk.js",
+    "static/js/3.efff8b9a.chunk.js.map": "/better-minds/static/js/3.efff8b9a.chunk.js.map",
+    "index.html": "/better-minds/index.html",
+    "static/css/2.804e59fb.chunk.css.map": "/better-minds/static/css/2.804e59fb.chunk.css.map",
+    "static/css/main.1594ca8a.chunk.css.map": "/better-minds/static/css/main.1594ca8a.chunk.css.map",
+    "static/js/2.c5c1a484.chunk.js.LICENSE.txt": "/better-minds/static/js/2.c5c1a484.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/better-minds/static/media/arrow_right.f7c6ac6d.svg",
+    "static/media/all.min.css": "/better-minds/static/media/fa-solid-900.eeccf4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9f04fc4.js",
+    "static/css/2.804e59fb.chunk.css",
+    "static/js/2.c5c1a484.chunk.js",
+    "static/css/main.1594ca8a.chunk.css",
+    "static/js/main.ec58881e.chunk.js"
+  ]
+}
