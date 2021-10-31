@@ -123,6 +123,7 @@
     width: 100%;
     border-radius: 40px;
     margin: 2   0px;
+    max-width: 30%;
     /* border: solid purple */
 }
 .whycomp div{
