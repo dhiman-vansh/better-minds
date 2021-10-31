@@ -1,3 +1,6 @@
+html{
+    scroll-behavior:smooth;
+}
 
 .navbar-nav .dropdown-menu{
     background-color:lightblue;
