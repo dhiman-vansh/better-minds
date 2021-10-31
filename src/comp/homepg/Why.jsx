@@ -8,7 +8,7 @@ export default function Why() {
         <h3>We here provide everything you need in order to achieve great heights</h3>
         </div>
         <div >
-        <h3>We provide Free Live tests which anyone can take anonymously</h3>
+        <h3>no provide Free Live tests which anyone can take anonymously</h3>
         </div>
         <img src='https://thumbs.dreamstime.com/b/pencil-exam-printed-school-test-testing-exercise-exam-paper-computer-sheet-pencil-school-test-room-165795337.jpg' alt='test' width='50%' >
         </img>
