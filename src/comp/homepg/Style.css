@@ -92,7 +92,7 @@
 }
 
 .whycomp{
-    display: flex;
+    /* display: flex;
     width: 100%;
     justify-content: space-around;
     flex-wrap: wrap;
@@ -100,9 +100,18 @@
     padding: 40px;
     background-color: aquamarine;
     box-shadow: 2px 2px 20px 1px purple;
-    border-bottom: purple solid;
-    /* background-color: purple; */
-    /* height: 860px; */
+    border-bottom: purple solid; */
+    display: flex;
+    /* margin-right: 150px; */
+    /* margin-left:200px; */
+    background-color: rgb(62, 245, 184);
+    /* height: 500%; */
+    align-items: center;
+    /* height: fit-content; */
+    justify-content: space-around;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    box-shadow: 2px 2px 20px 2px purple;
 }
 .whycomp:hover{
     transition: 1s;
@@ -110,8 +119,9 @@
     padding: 50px;
 }
 .whycomp img{
-    width: 40%;
+    width: 100%;
     border-radius: 40px;
+    margin: 2   0px;
     /* border: solid purple */
 }
 .whycomp div{
