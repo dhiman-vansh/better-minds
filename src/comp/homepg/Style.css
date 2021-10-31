@@ -1,0 +1,130 @@
+
+.navbar-nav .dropdown-menu{
+    background-color:lightblue;
+}
+.navtop {
+    background-color:#b9e2f4;
+    position: sticky;
+    margin-bottom: 10px;
+    box-shadow: 2px 2px 20px 5px purple; 
+}
+.navtop:hover{
+    box-shadow: 2px 5px 20px 10px purple;
+}
+
+.headingsbtw{
+    text-align: center;
+    margin-top:100px;
+    margin-bottom: -5px;
+    background-color: aquamarine ;
+    padding: 20px;
+    border-top: solid purple;
+}
+
+.slidercomp{
+    /* background-color: black; */
+    padding: 0px;
+    /* border-radius: 10px; */
+    /* outline: purple solid 2px; */
+    outline-offset: -1px;
+    background-color: aquamarine ;
+    border-bottom: solid purple;
+    /* box-shadow: 2px 2px 20px 2px purple; */
+}
+.slidercomp:hover{
+    margin: 2px;
+    /* border-radius: 10px; */
+    /* box-shadow: 3px 2px 20px 10px purple; */
+}
+
+.ytcomp{
+    display: flex;
+    /* margin-right: 150px; */
+    /* margin-left:200px; */
+    background-color: rgb(62, 245, 184);
+    /* height: 500%; */
+    align-items: center;
+    /* height: fit-content; */
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    box-shadow: 2px 2px 20px 2px purple;
+}
+.ytcomp:hover{
+    transition: 1s;
+    box-shadow: 3px 2px 20px 5px purple;
+    padding: 25px;
+}
+.ytcompimg{
+    border-radius: 40px;
+    /* height: 100%; */
+    width: 100%;
+    margin: 10px;
+}
+/* .ytcompimg:hover{
+    margin: 5px;
+} */
+
+.coursecomp{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px 200px;
+    background-color: aquamarine;
+    border-bottom: purple solid;
+    /* background-color: purple; */
+    /* height: 860px; */
+}
+
+.cardcomp{
+    width: 20rem;
+    border-radius: 10px;
+    box-shadow: 2px 2px 20px 5px purple;
+    margin: 10px 20px;
+}
+.cardcomp:hover{
+    padding: 2px;
+    box-shadow: 3px 10px 20px 2px purple;
+    margin: 10px;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.whycomp{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 40px;
+    background-color: aquamarine;
+    box-shadow: 2px 2px 20px 1px purple;
+    border-bottom: purple solid;
+    /* background-color: purple; */
+    /* height: 860px; */
+}
+.whycomp:hover{
+    transition: 1s;
+    box-shadow: 3px 2px 20px 5px purple;
+    padding: 50px;
+}
+.whycomp img{
+    width: 40%;
+    border-radius: 40px;
+    /* border: solid purple */
+}
+.whycomp div{
+    /* background-color: black; */
+    align-items: center;
+    width: 40%;
+    display: flex;
+    text-align: center;
+    margin:50px;
+}
+
+.footercomp{
+    padding: 50px ;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
