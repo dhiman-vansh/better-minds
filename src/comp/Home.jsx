@@ -8,6 +8,7 @@ import Why from "./homepg/Why";
 export default function Home() {
     return(
         <div id="home">
+            hi
         <h2 className="headingsbtw" id="slider">Our Results</h2>
         <Slidecomp />
         <h2 className="headingsbtw" id="yt">Youtube Channel</h2>
