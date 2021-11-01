@@ -12,7 +12,11 @@ export default function Why() {
         </div>
         <img src='https://thumbs.dreamstime.com/b/pencil-exam-printed-school-test-testing-exercise-exam-paper-computer-sheet-pencil-school-test-room-165795337.jpg' alt='test' width='50%' >
         </img>
+        <img src='https://cdn.abcotvs.com/dip/images/961353_082815-cc-teacher-book-img.jpg?w=1280&r=16%3A9' alt='teacher' 
+        />
+        <div>
+        <h3>We have one of best faculties in town, So why not join us and learn from the best</ h3>
+        </div>
         </ div>
-
     )
 }
