@@ -1,10 +1,11 @@
 import { Carousel, Container } from 'react-bootstrap'
 import './Style.css'
 export default function Slidecomp() {
+  
     return (
         <>
         {/* <Container className="slidercomp"> */}
-        <Carousel className="slidercomp"> 
+  <Carousel fade className="slidercomp"> 
   <Carousel.Item interval={500} >
     <img
       className="d-block w-100"
