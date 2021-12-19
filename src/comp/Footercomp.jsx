@@ -33,7 +33,7 @@ export default function Footercomp() {
                 <a href="#slider">Phone number - 8755381346</a>
               </li>
               <li className="list-unstyled">
-                <a href="#yt">Instagram - Better Minds</a>
+                <a href="#yt" >Instagram - Better Minds</a>
               </li>
               <li className="list-unstyled">
                 <a href="#course">Address - Dehradun</a>
@@ -44,13 +44,13 @@ export default function Footercomp() {
           <h5 className="title">Teams</h5>
             <ul>
               <li className="list-unstyled">
-                <a href="#slider">Aman</a>
+                <a href="#slider">Harshit</a>
               </li>
               <li className="list-unstyled">
-                <a href="#yt">Ankit</a>
+                <a href="#yt">Dixit</a>
               </li>
               <li className="list-unstyled">
-                <a href="#course">Vansh</a>
+                <a href="#course">Himanshu</a>
               </li>
             </ul>
           </ MDBCol>

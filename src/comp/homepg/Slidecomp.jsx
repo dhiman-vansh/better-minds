@@ -5,7 +5,7 @@ export default function Slidecomp() {
     return (
         <>
         {/* <Container className="slidercomp"> */}
-  <Carousel fade className="slidercomp"> 
+  <Carousel fade > 
   <Carousel.Item interval={500} >
     <img
       className="d-block w-100"
@@ -29,7 +29,6 @@ export default function Slidecomp() {
     />
   </Carousel.Item>
 </Carousel>
-{/* </Container> */}
-        </>
+      </>
     )
 }
