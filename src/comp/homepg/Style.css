@@ -19,18 +19,20 @@ html{
     text-align: center;
     margin-top:100px;
     margin-bottom: -5px;
-    background-color: aquamarine ;
+    /* background-color: aquamarine ; */
     padding: 20px;
     border-top: solid purple;
 }
 
 .slidercomp{
     /* background-color: black; */
-    padding: 0px;
+    /* padding: 0px; */
     /* border-radius: 10px; */
-    /* outline: purple solid 2px; */
+    /* margin: 100px; */
+    outline: purple solid 2px;
     outline-offset: -1px;
     background-color: aquamarine ;
+    /* padding: 100px; */
     border-bottom: solid purple;
     /* box-shadow: 2px 2px 20px 2px purple; */
 }
@@ -63,7 +65,7 @@ html{
     border-radius: 40px;
     max-width: 600px;
     /* height: 100%; */
-    width: 100%;
+    width: 90%;
     margin: 10px 0px;
 }
 .ytcomp div{
@@ -82,19 +84,26 @@ html{
     flex-wrap: wrap;
     padding: 20px ;
     background-color: aquamarine;
+    box-shadow: 2px 2px 20px 5px purple;
+    border-radius: 30px;
     border-bottom: purple solid;
     /* background-color: purple; */
     /* height: 860px; */
 }
-
+.coursecomp:hover{
+    
+    transition: 1s;
+    box-shadow: 3px 2px 20px 5px purple;
+    /* padding: 50px; */
+}
 .cardcomp{
-    width: 18rem;
+    max-width: 18rem;
     border-radius: 10px;
     box-shadow: 2px 2px 20px 5px purple;
     margin: 10px 20px;
 }
 .cardcomp:hover{
-    padding: 2px;
+    /* padding: 2px; */
     box-shadow: 3px 10px 20px 2px purple;
     margin: 10px;
     cursor: pointer;
@@ -108,7 +117,6 @@ html{
     flex-wrap: wrap;
     align-items: center;
     padding: 40px;
-    background-color: aquamarine;
     box-shadow: 2px 2px 20px 1px purple;
     border-bottom: purple solid; */
     display: flex;
