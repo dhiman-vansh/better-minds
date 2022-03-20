@@ -12,7 +12,7 @@ export default function Ytcomp() {
         <div >
         <ReactPlayer controls
         width='100%'
-        url="https://www.youtube.com/watch?v=zTitoHKsyJg" />
+        url="https://www.youtube.com/watch?v=fkY0qQL1RjEhttps://www.youtube.com/watch?v=fkY0qQL1RjE" />
         </div>
         </div>
     )

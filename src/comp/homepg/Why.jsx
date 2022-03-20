@@ -2,7 +2,7 @@
 export default function Why() {
     return(
         <div className="whycomp">
-        <img src='https://media.gettyimages.com/photos/children-doing-written-lesson-in-class-teacher-in-background-picture-id200449863-004'
+        <img src="https://images.unsplash.com/photo-1509062522246-3755977927d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2xhc3Nyb29tfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
          />
         <div >
         <h3>We here provide everything you need in order to achieve great heights</h3>
