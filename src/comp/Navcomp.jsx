@@ -17,7 +17,7 @@ const hideDropdown = e => {
   <Container>
   <NavbarBrand>
     <img src="https://raw.githubusercontent.com/dhiman-vansh/Coding/master/Better%20Minds%20Logo.JPG"
-    width='70'  />
+    width='70' className='imgnav' />
   </NavbarBrand>
   <Navbar.Brand href="#home"><strong>Better Minds</strong></Navbar.Brand>
   <Navbar.Toggle aria-controls="responsive-navbar-nav" />
