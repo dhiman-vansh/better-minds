@@ -1,7 +1,7 @@
 
 body{
     /* padding: 3%; */
-    /* max-width:1500px ; */
+    /* max-width:1820px ; */
 }
 .navbar-nav .dropdown-menu{
     background-color:lightblue;
@@ -13,13 +13,13 @@ body{
 #home{
     /* margin: auto; */
     margin: auto;
-    max-width: 1550px;
+    max-width: 1520px;
 
     /* margin: 0px 3%; */
 }
 .navtop {
     background-color:#b9e2f4    ;
-    position: sticky;
+    position: fixed;
     margin-bottom: 10px;
     box-shadow: 2px 2px 20px 5px purple; 
 }
@@ -37,8 +37,30 @@ body{
 }
 
 .footercomp{
-    padding: 50px ;
-    display: flex;
-    justify-content: space-around;
-    margin: 100px -3% -4% -3.5%; 
+   position: flex;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color: white;
+   text-align: center;
 }
+.section{
+    margin: 150px auto 80px;
+    /* width: 100%; */
+    max-width: 1520px;
+    min-height: 30rem;
+    padding: 10px;
+    display: flex ;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: lavenderblush;
+    box-shadow: 2px 2px 20px 2px purple;
+
+}
+.section:hover{
+    transition: 0.5s;
+    padding: 25px;
+    box-shadow: 2px 5px 20px 10px purple;
+}
+
